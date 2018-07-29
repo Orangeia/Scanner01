@@ -6,7 +6,7 @@ scanner01.pyの説明
 
 opencvを用いてカメラで取得した画像に次の3つの画像処理を行った。
 
-1. 矩形検出
+1. 射影変換をして矩形検出
 
 2. 顔認識
 
@@ -35,11 +35,14 @@ Opencvバージョン:'3.4.1'
 
 https://sites.google.com/site/lifeslash7830/home/hua-xiang-chu-li/opencvniyoruhuaxiangchulitorakkubatoka?tmpl=%2Fsystem%2Fapp%2Ftemplates%2Fprint%2F&showPrintDialog=1
 
-参考文献2(顔認識)
+参考文献2(射影変換)
+https://qiita.com/mix_dvd/items/5674f26af467098842f0
+
+参考文献3(顔認識)
 
 https://gist.github.com/kurozumi/04a75695dc32c46586be0d69e6a8243f
 
-参考文献3(顔をトリミングして保存)
+参考文献4(顔をトリミングして保存)
 
 http://famirror.hateblo.jp/entry/2015/12/19/180000
 
