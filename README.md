@@ -36,6 +36,7 @@ Opencvバージョン:'3.4.1'
 https://sites.google.com/site/lifeslash7830/home/hua-xiang-chu-li/opencvniyoruhuaxiangchulitorakkubatoka?tmpl=%2Fsystem%2Fapp%2Ftemplates%2Fprint%2F&showPrintDialog=1
 
 参考文献2(射影変換)
+
 https://qiita.com/mix_dvd/items/5674f26af467098842f0
 
 参考文献3(顔認識)
